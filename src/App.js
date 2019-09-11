@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import FullCalendar from '@fullcalendar/react'
 import dayGridPlugin from '@fullcalendar/daygrid'
+import { Timeline, TimelineItem } from 'vertical-timeline-component-for-react';
 
 function App() {
   return (
@@ -28,6 +29,42 @@ function App() {
           { title: 'Cumple Ari', date: '2020-12-04' },
           { title: 'Cumple Kristell', date: '2020-12-09' }
         ]} />
+
+
+        <Timeline lineColor={'#ddd'}>
+          <TimelineItem
+            key="001"
+            dateText="Presente"
+            style={{ color: '#e86971' }}
+          >
+            <h3>Llegada de los Exiliados</h3>
+
+          </TimelineItem>
+          <TimelineItem
+            key="002"
+            dateText="-80"
+            dateInnerStyle={{ background: '#61b8ff' }}
+
+          >
+            <h3>Reinado de Ezureth</h3>
+            <h4>Actividad de los Maestro -80 a -60</h4>
+            <h4>Nigel -70 a Presente</h4>
+
+          </TimelineItem>
+
+          <TimelineItem
+            key="003"
+            dateText="-250"
+            dateInnerStyle={{ background: '#000000', color: '#FFFFFF' }}
+
+          >
+            <h3>Edad oscuro</h3>
+            <h4>Actividad de los Maestro -80 a -60</h4>
+            <h4>Nigel -70 a Presente</h4>
+
+          </TimelineItem>
+
+        </Timeline>
       </div>
     </div>
   );
