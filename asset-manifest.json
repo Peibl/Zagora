@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Zagora/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Zagora/static/js/main.ad72832a.chunk.js",
-    "main.js.map": "/Zagora/static/js/main.ad72832a.chunk.js.map",
-    "runtime~main.js": "/Zagora/static/js/runtime~main.9c6afdb0.js",
-    "runtime~main.js.map": "/Zagora/static/js/runtime~main.9c6afdb0.js.map",
-    "static/js/2.a8f967ce.chunk.js": "/Zagora/static/js/2.a8f967ce.chunk.js",
-    "static/js/2.a8f967ce.chunk.js.map": "/Zagora/static/js/2.a8f967ce.chunk.js.map",
+    "main.css": "/Zagora/static/css/main.c5d7d309.chunk.css",
+    "main.js": "/Zagora/static/js/main.93e11d76.chunk.js",
+    "main.js.map": "/Zagora/static/js/main.93e11d76.chunk.js.map",
+    "runtime~main.js": "/Zagora/static/js/runtime~main.31922317.js",
+    "runtime~main.js.map": "/Zagora/static/js/runtime~main.31922317.js.map",
+    "static/css/2.1d370722.chunk.css": "/Zagora/static/css/2.1d370722.chunk.css",
+    "static/js/2.1e470d46.chunk.js": "/Zagora/static/js/2.1e470d46.chunk.js",
+    "static/js/2.1e470d46.chunk.js.map": "/Zagora/static/js/2.1e470d46.chunk.js.map",
     "index.html": "/Zagora/index.html",
-    "precache-manifest.165c4f030594fc0934f77b4c145184fc.js": "/Zagora/precache-manifest.165c4f030594fc0934f77b4c145184fc.js",
+    "precache-manifest.f991ddff84c26d7f35eb69c8404eec47.js": "/Zagora/precache-manifest.f991ddff84c26d7f35eb69c8404eec47.js",
     "service-worker.js": "/Zagora/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Zagora/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Zagora/static/media/logo.5d5d9eef.svg"
+    "static/css/2.1d370722.chunk.css.map": "/Zagora/static/css/2.1d370722.chunk.css.map",
+    "static/css/main.c5d7d309.chunk.css.map": "/Zagora/static/css/main.c5d7d309.chunk.css.map"
   }
 }
